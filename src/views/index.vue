@@ -79,20 +79,22 @@
     <div id="contact" class="container-fluid containerwhite g-0" style=" box-shadow:inset 0 4px 8px rgba(0, 0, 0, 0.1);">
         <div class=" d-flex justify-content-center " style="background: white;">
             <div class="col-8">
+                <h1 style="width: 100%; text-align: center; padding-top: 100px;  font-weight: bolder;">Contactame</h1>
                 <form action="https://formsubmit.co/juancamilo1478@gmail.com" method="POST">
-                    <h1 style="width: 100%; text-align: center; padding-top: 100px;  font-weight: bolder;">Contactame</h1>
                     <div class="mb-3">
                         <label for="exampleInputPassword1" class="form-label">Correo</label>
-                        <!-- <input type="email" name="email" required class="form-label">Correo electronico</input> -->
-                        <input type="email" class="form-control"   aria-describedby="emailHelp" required>
-                        <div id="emailHelp" class="form-text">Tu correo electronico.</div>
+                        <input type="email" class="form-control" name="email" required>
                     </div>
                     <div class="mb-3">
                         <label for="exampleInputPassword1" class="form-label">Mensaje</label>
-                        <input type="text" class="form-control"   required>
+                        <input type="text" class="form-control"  name="mensaje" required>
                     </div>
-                    <button type="submit" class="btn btn-primary">Enviar</button>
+                
+                     
+                    <button type="submit" class="btn btn-primary" style="width: 100%;   margin-bottom:50px ;">Enviar</button>
+                     
                </form>
+            
                 <div class="container_items_contact " style="margin-bottom: 20px;">
                     <div onclick="window.open('https://wa.me/+573045532144', '_blank')"  class="item" style="text-decoration: none; color:white ; text-decoration-line: none; "><i class="fa-brands fa-whatsapp" style="font-size: 2rem;  "></i></div> 
                     <div onclick="window.open('https://www.linkedin.com/in/juan-camilo-saiz-sanjuan-a66245246', '_blank')"  class="item"><i class="fa-brands fa-linkedin" style="font-size: 2rem;"></i></div>
@@ -148,7 +150,7 @@ export default {
 .title{
     font-weight: bolder;
     font-size: 2rem;
-    
+  
 }
 .container_items_contact{
  
