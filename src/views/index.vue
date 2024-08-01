@@ -67,7 +67,7 @@
                     <img src="https://res.cloudinary.com/dirsusbyy/image/upload/t_b2/v1722490214/fwafu60msyxpsqh8a6fn.jpg" class="image_panel"/>
                 </div>
                 <div class="col-4  d-none d-md-block">
-                    <img src="https://anincubator.com/wp-content/uploads/2022/08/aplicaciones.png" class="image_panel"/>
+                    <img src="https://res.cloudinary.com/dirsusbyy/image/upload/t_b2/v1722532714/ko2z3zjy57p9qqaytgly.gif" class="image_panel"/>
                 </div>
 
                 <div class="col-4 d-none d-md-block" >
