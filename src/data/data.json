@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "name":"Bait",
+        "type":"Web",
+        "Description":"Bait es una página web de reseñas de restaurantes que permite a los usuarios buscar locales cercanos según filtros de comida. Los usuarios pueden compartir su experiencia y opiniones sobre los restaurantes visitados, utilizando funcionalidades como la geolocalización y la cámara para agregar reseñas. De esta manera, los demás usuarios pueden tomar decisiones informadas al elegir un restaurante",
+        "photos":["https://res.cloudinary.com/dirsusbyy/image/upload/t_b2/v1722487141/bbrxa1gj5werogrtv68f.jpg","https://res.cloudinary.com/dirsusbyy/image/upload/t_b2/v1722487141/efr7mrrmzwo61098mykr.jpg","https://res.cloudinary.com/dirsusbyy/image/upload/t_b2/v1722487141/la2x0dlbrqdvtzbsjsga.jpg"],
+        "video":"https://youtu.be/ENEtQZqkX98",
+        "repositorie_Git":"https://github.com/Rzyfront/Bait-App",
+        "Deploy":"https://bait-one.vercel.app/",
+        "framework":"React/node"
+    },
+    {
+        "id":2,
+        "name":"Sorfware contable",
+        "type":"Desktop",
+        "Description":"Esta app creada para el restaurante campestre los amigos inn de ibague tolima su funciona actualmente es para llevar la contavilidad del restaurante conocer las propinas d elos meceros y imprimir las facturas electronicas",
+        "photos":["https://res.cloudinary.com/dirsusbyy/image/upload/v1694968811/qrytwkxwicxunb6xpbwi.png","https://res.cloudinary.com/dirsusbyy/image/upload/v1694968898/rcgianwbmbsz4tirpugr.png"],
+        "video":"https://www.youtube.com/watch?v=lbC5NzPJ5ps",
+        "repositorie_Git":null,
+        "Deploy":null,
+        "framework":"Flutter/node"
+    },
+    {
+        "id":3,
+        "name":"isiclinic",
+        "type":"web",
+        "Description":"landing page para la web de isiclinic el cual es un sofware de clinicas",
+        "photos":["https://res.cloudinary.com/dirsusbyy/image/upload/t_b2/v1722487983/rnkunmm1peevlv1skew9.jpg","https://res.cloudinary.com/dirsusbyy/image/upload/t_b2/v1722487986/aaywi99vep13anbn5lsb.jpg","https://res.cloudinary.com/dirsusbyy/image/upload/t_b2/v1722487984/w0kgthklpwr9lwukegjh.jpg"],
+        "video":null,
+        "repositorie_Git":null,
+        "Deploy":"https://pruebaydemo.com/desarrollo/",
+         "framework":"Html/php"
+    }
+    
+   
+]
