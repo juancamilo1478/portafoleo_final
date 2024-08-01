@@ -11,13 +11,13 @@
             <div class="d-flex justify-content-center flex-grow-1 d-none d-md-block">
               <div class="navbar-nav " style="width: 60%;justify-content: space-around;">
                
-                      <a @click="scrollToSection('init')" class="nav-link" href="#"style="color: white;   font-weight: 700;    font-size: 1.4rem;text-decoration: none;">Home</a>
+                      <a @click="scrollToSection('init')" class="nav-link" href="#"style="color: white;   font-weight: 700;    font-size: 1.4rem;text-decoration: none;">inicio</a>
               
                  
-                      <a @click="scrollToSection('proyects')" class="nav-link" href="#"style="color: white;   font-weight: 700;font-size: 1.4rem;text-decoration: none;"    >Proyects</a>
+                      <a @click="scrollToSection('proyects')" class="nav-link" href="#"style="color: white;   font-weight: 700;font-size: 1.4rem;text-decoration: none;"    >Proyectos</a>
             
                   <a @click="scrollToSection('contact')" class="nav-link" href="#"style="color: white;   font-weight: 700;font-size: 1.4rem;text-decoration: none;">
-                      Contact
+                      Contacto
                     </a>
  
               </div>
